@@ -22,9 +22,9 @@ Con las sgtes Validaciones:
 - Instalar dependencias, packages `pip -r install requirements.txt`
 - Crear una base de datos vacía
 ```
-cd flask-simple-login/
+cd src/
 python
->>> from login_app import create_db
+>>> from app import create_db
 >>> create_db()
 ```
 
