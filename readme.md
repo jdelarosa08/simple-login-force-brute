@@ -17,10 +17,10 @@ Con las sgtes Validaciones:
 ###
 
 ## Getting Started
-- Instalar Python 3.7  `brew install python3 ` Mac
-- Creacion de un Environment con Virtualenv `Python3 -mvenv project`
-- Instalar dependencias, packages `pip -r install requirements.txt`
-- Crear una base de datos vacía
+- Instalar Python 3.7  `brew install python3 ` Mac.
+- Creacion de un Environment con Virtualenv `Python3 -mvenv project`.
+- Instalar dependencias, packages `pip -r install requirements.txt`.
+- Crear una base de datos vacía.
 ```
 cd src/
 python
@@ -28,6 +28,6 @@ python
 >>> create_db()
 ```
 
-- Correr la aplicacion `python login_app.py`
-- crear una nueva cuenta de usuario  http://127.0.0.1:5000/signup
+- Correr la aplicacion `python app.py`
+- Crear una nueva cuenta de usuario  http://127.0.0.1:5000/signup
 - Iniciar sesion  http://127.0.0.1:5000/login
