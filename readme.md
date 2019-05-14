@@ -19,7 +19,7 @@ Con las sgtes Validaciones:
 ## Getting Started
 - Instalar Python 3.7  `brew install python3 ` Mac.
 - Creacion de un Environment con Virtualenv `Python3 -mvenv project`.
-- Instalar dependencias, packages `pip -r install requirements.txt`.
+- Instalar dependencias, packages `pip install -r requirements.txt`.
 - Crear una base de datos vacía.
 ```
 cd src/
